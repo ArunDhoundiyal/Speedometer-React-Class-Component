@@ -1,0 +1,48 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #07080c;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: roboto;
+}
+.img-style {
+  height: 300px;
+  width: 650px;
+}
+.top-heading {
+  color: #ffffff;
+  font-family: roboto;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 40px;
+}
+.speed-heading {
+  color: #ffffff;
+}
+.speed-text {
+  color: #ffffff;
+}
+.button-container {
+  margin-top: 30px;
+}
+.accelerate-button {
+  color: #ffffff;
+  background-color: #0b69ff;
+  border: solid 0px;
+  width: 100px;
+  height: 30px;
+  border-radius: 8px;
+  margin-right: 18px;
+}
+.brake-button {
+  color: #ffffff;
+  border: solid 1px #ffffff;
+  background-color: transparent;
+  width: 100px;
+  height: 30px;
+  border-radius: 8px;
+}
